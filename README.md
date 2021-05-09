@@ -9,3 +9,9 @@ https://www.dewaplokis.com/2020/02/cara-gunakan-lazyload-untuk-defer-image.html
 
 Owl Corousel Lazy Load
 http://www.landmarkmlp.com/js-plugin/owl.carousel/demos/lazyLoad.html
+
+
+###############
+Compress JS, HTML, CSS
+###############
+https://www.elegantthemes.com/blog/tips-tricks/how-to-minify-your-websites-css-html-javascript
